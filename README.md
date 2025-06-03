@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jami Jaswanth! <br/>Cybersecurity Professional</a></h1>
 <h2>🚀 About Me</h2>
 
-👋 Hello! I'm Jami Jaswanth, an aspiring cybersecurity professional with a passion for Security Analysis. I'm eager to apply my skills in identifying and mitigating security threats. This portfolio showcases some of the projects I've undertaken to learn and demonstrate my abilities.
+Hello! I'm Jami Jaswanth, an aspiring cybersecurity professional with a passion for Security Analysis. I'm eager to apply my skills in identifying and mitigating security threats. This portfolio showcases some of the projects I've undertaken to learn and demonstrate my abilities.
 <h2>🎓 Education</h2>
 B.Tech - CSE in Cybersecurity and Blockchain Technology,
 KL University, Guntur, India
