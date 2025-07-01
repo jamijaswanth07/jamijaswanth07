@@ -9,7 +9,7 @@ KL University, Guntur, India
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Internal Security Audit</b>
-  - [Company-Botium Toys](https://1drv.ms/b/c/efd958eab8791687/Eeufn7u4LiFDm0S02jXd3JMB6jMg71sd4YquzVvA8DRY2Q?e=NSi3rR)
+  - [Company-Botium Toys](https://1drv.ms/f/c/efd958eab8791687/EnrY-tgp945ApCuMm2EjDkQBkqpG04oa0AX-px2G9zmFnA?e=pV8787)
 
 <h2>📜 Certifications</h2>
 
