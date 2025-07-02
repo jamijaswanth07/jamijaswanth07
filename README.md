@@ -11,7 +11,7 @@ KL University, Guntur, India
 - <b>Internal Security Audit</b>
   - [Company-Botium Toys](https://1drv.ms/f/c/efd958eab8791687/EnrY-tgp945ApCuMm2EjDkQBkqpG04oa0AX-px2G9zmFnA?e=pV8787)
 - <b>NIST CSF-DDoS Response Report</b>
-  - [Company-Botium Toys](https://1drv.ms/w/c/efd958eab8791687/EcETBkYy5h1Bt_k-CypodxUBtCoeb7JVlI4wYOGq2j9Q4g?e=gZby4T)
+  - [Multimedia Company-DDoS Attack](https://1drv.ms/w/c/efd958eab8791687/EcETBkYy5h1Bt_k-CypodxUBtCoeb7JVlI4wYOGq2j9Q4g?e=gZby4T)
 
 <h2>📜 Certifications</h2>
 
