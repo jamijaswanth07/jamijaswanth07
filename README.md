@@ -12,6 +12,8 @@ KL University, Guntur, India
   - [Company-Botium Toys](https://1drv.ms/f/c/efd958eab8791687/EnrY-tgp945ApCuMm2EjDkQBkqpG04oa0AX-px2G9zmFnA?e=pV8787)
 - <b>NIST CSF-DDoS Response Report</b>
   - [Multimedia Company-DDoS Attack](https://1drv.ms/w/c/efd958eab8791687/EcETBkYy5h1Bt_k-CypodxUBtCoeb7JVlI4wYOGq2j9Q4g?e=gZby4T)
+- <b>Linux File Permissions Management</b>
+  - [Securing System Access for a Research Environment](https://1drv.ms/w/c/efd958eab8791687/EYSGlliW9gZJrgyQQJl16b8BWPNfozSzrmeIijn7kJkufA?e=ralSZw)
 
 <h2>📜 Certifications</h2>
 
