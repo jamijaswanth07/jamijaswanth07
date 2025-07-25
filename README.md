@@ -15,7 +15,7 @@ KL University, Guntur, India
 - <b>Linux File Permissions Management</b>
   - [Securing System Access for a Research Environment](https://1drv.ms/w/c/efd958eab8791687/EYSGlliW9gZJrgyQQJl16b8BWPNfozSzrmeIijn7kJkufA?e=ralSZw)
 - <b>Investigating Security Issues with SQL Filters</b>
-  - [Data Retrieval for Security Insights](https://1drv.ms/w/c/efd958eab8791687/EYSGlliW9gZJrgyQQJl16b8BWPNfozSzrmeIijn7kJkufA?e=ralSZw)
+  - [Data Retrieval for Security Insights](https://1drv.ms/w/c/efd958eab8791687/EWbDf-m_yvZIjK8VOV0XkdwB2GXWOXvvRKRyHC-f1KtBIA?e=QceeoY)
 
 <h2>📜 Certifications</h2>
 
