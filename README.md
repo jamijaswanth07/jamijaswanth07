@@ -20,6 +20,7 @@ KL University, Guntur, India
 <h2>📜 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://1drv.ms/f/c/efd958eab8791687/ElNlM5PNaBVNhNVXoN3_Ov0BpWfGmVo8uEW4N1mS0I6KGQ?e=fkU044)
+- [Anonymous India Intership Certificate](https://drive.google.com/file/d/1nUh-sLKCDJT1vKTKTCZHU2xtUPqRv4iC/view?usp=sharing)
   
 
 <h2> 🤳 Connect with me:</h2>
